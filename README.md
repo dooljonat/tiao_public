@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="tiao_frontend_website/public/favicon.svg" width="90" height="90" alt="Tiao logo" />
+  <img src="=favicon.svg" width="90" height="90" alt="Tiao logo" />
   <h1>Tiao</h1>
   <p><strong>Mandarin learning, powered by the content you already watch.</strong></p>
 
